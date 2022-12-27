@@ -1,0 +1,1188 @@
+2022-12-25 21:16:51.144 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.176 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:51.180 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.185 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:51.185 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:51.188 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.260 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:51.264 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.268 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:51.268 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:51.273 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.305 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:51.308 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.312 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:51.312 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:51.316 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.388 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:51.392 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.396 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:51.396 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:51.400 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.432 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:51.436 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.440 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:51.440 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:51.445 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.512 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 17 lines
+2022-12-25 21:16:51.516 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.518   688-4296  audio_hw_spkr_prot      pid-688                              D  audio_extn_fbsp_get_parameters: Speaker protection disabled
+2022-12-25 21:16:51.519   688-4296  audio_hw_extn           pid-688                              D  audio_extn_get_parameters: returns 
+2022-12-25 21:16:51.519   743-18989 hash_map_utils          pid-743                              I  key: 'hifi_mode' value: ''
+2022-12-25 21:16:51.520 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.524 12683-18131 AudioManager            pid-12683                            D  getStreamVolume isRestricted mode = 0
+2022-12-25 21:16:51.525 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:51.525 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:51.527   688-4296  audio_hw_spkr_prot      pid-688                              D  audio_extn_fbsp_get_parameters: Speaker protection disabled
+2022-12-25 21:16:51.527   688-4296  audio_hw_extn           pid-688                              D  audio_extn_get_parameters: returns 
+2022-12-25 21:16:51.528   743-18989 hash_map_utils          pid-743                              I  key: 'hifi_mode' value: ''
+2022-12-25 21:16:51.529 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.532 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 1 line
+2022-12-25 21:16:51.536 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.540  2820-5429  DPMJ                    pid-2820                             I  |REQ:RCVR| DPM creating socket
+2022-12-25 21:16:51.541 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.560 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 5 lines
+2022-12-25 21:16:51.564 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.568 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:51.568 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:51.572 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.584 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 3 lines
+2022-12-25 21:16:51.588 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.589  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait done.
+2022-12-25 21:16:51.590  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Reading 40000 .
+2022-12-25 21:16:51.590  1302-1462  ThermalEngine           pid-1302                             I  Sensor:msm_therm:40000 mC
+2022-12-25 21:16:51.590  1302-1462  ThermalEngine           pid-1302                             D  update_active_thresh: msm_therm Active(1), Hi(1) 44000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:16:51.590  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Sensor wait.
+2022-12-25 21:16:51.590  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait start. 1000ms
+2022-12-25 21:16:51.592  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait done.
+2022-12-25 21:16:51.593 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.593  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Reading 38000 .
+2022-12-25 21:16:51.593  1302-1463  ThermalEngine           pid-1302                             I  Sensor:quiet_therm:38000 mC
+2022-12-25 21:16:51.593  1302-1463  ThermalEngine           pid-1302                             D  update_active_thresh: quiet_therm Active(1), Hi(1) 40000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:16:51.593  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Sensor wait.
+2022-12-25 21:16:51.593  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait start. 1000ms
+2022-12-25 21:16:51.596 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.644 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 12 lines
+2022-12-25 21:16:51.648 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.652 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:51.652 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:51.656 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.688 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:51.692 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.697 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:51.697 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:51.700 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.773 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:51.777 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.781 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:51.781 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:51.784 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.816 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:51.821 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.825 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:51.825 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:51.828 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.900 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:51.904 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.908 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:51.908 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:51.912 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.944 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:51.948 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:51.953 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:51.953 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:51.956 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.028 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:52.032 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.036 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:52.037 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:52.040 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.072 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:52.076 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.080 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:52.080 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:52.084 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.156 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:52.161 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.165 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:52.165 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:52.168 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.200 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:52.204 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.208 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:52.208 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:52.212 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.213  1302-1457  ThermalEngine           pid-1302                             D  sensor_wait: backlight_therm Wait done.
+2022-12-25 21:16:52.216  1302-1457  ThermalEngine           pid-1302                             D  sensor_monitor: backlight_therm Reading 37000 .
+2022-12-25 21:16:52.216  1302-1457  ThermalEngine           pid-1302                             I  Sensor:backlight_therm:37000 mC
+2022-12-25 21:16:52.216  1302-1457  ThermalEngine           pid-1302                             D  update_active_thresh: backlight_therm Active(1), Hi(1) 45000, Lo(0) -2147483648, desc(0) Interval(1) 2000
+2022-12-25 21:16:52.216  1302-1457  ThermalEngine           pid-1302                             D  sensor_monitor: backlight_therm Sensor wait.
+2022-12-25 21:16:52.216  1302-1457  ThermalEngine           pid-1302                             D  sensor_wait: backlight_therm Wait start. 2000ms
+2022-12-25 21:16:52.216 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.285 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 17 lines
+2022-12-25 21:16:52.288 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.292 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:52.292 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:52.296 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.328 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:52.332 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.336 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:52.336 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:52.340 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.412 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:52.416 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.420 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:52.421 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:52.424 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.456 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:52.460 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.464 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:52.465 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:52.468 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.540 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:52.545 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.548 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:52.549 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:52.552 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.584 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:52.588 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.591  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait done.
+2022-12-25 21:16:52.592  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Reading 40000 .
+2022-12-25 21:16:52.592  1302-1462  ThermalEngine           pid-1302                             I  Sensor:msm_therm:40000 mC
+2022-12-25 21:16:52.592  1302-1462  ThermalEngine           pid-1302                             D  update_active_thresh: msm_therm Active(1), Hi(1) 44000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:16:52.592  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Sensor wait.
+2022-12-25 21:16:52.592  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait start. 1000ms
+2022-12-25 21:16:52.592 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:52.593 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:52.593  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait done.
+2022-12-25 21:16:52.595  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Reading 38000 .
+2022-12-25 21:16:52.595  1302-1463  ThermalEngine           pid-1302                             I  Sensor:quiet_therm:38000 mC
+2022-12-25 21:16:52.595  1302-1463  ThermalEngine           pid-1302                             D  update_active_thresh: quiet_therm Active(1), Hi(1) 40000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:16:52.595  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Sensor wait.
+2022-12-25 21:16:52.595  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait start. 1000ms
+2022-12-25 21:16:52.597 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.668 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:52.673 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.676 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:52.676 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:52.681 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.712 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:52.717 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.721 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:52.721 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:52.724 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.796 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:52.800 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.804 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:52.804 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:52.808 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.836 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 7 lines
+2022-12-25 21:16:52.840 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.843 19385-19421 A                       pid-19385                            E  (REDACTED) Trace %s timed out after %d ms. Complete trace: %s
+                                                                                                    com.google.apps.tiktok.tracing.fo: 
+                                                                                                    	at tk_trace.StartupAfterPackageReplaced(Started After:135373)
+                                                                                                    	at tk_trace.AfterPackageReplaced(Started After:0)
+                                                                                                    	at tk_trace.Startup Listeners(Started After:0)
+                                                                                                    	at tk_trace.Application.onCreate(Started After:0)
+                                                                                                    	at tk_trace.Application creation(Started After)
+2022-12-25 21:16:52.845 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.849 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:52.849 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:52.852 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.924 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:52.928 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.932 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:52.932 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:52.936 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.968 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:52.972 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:52.976 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:52.976 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:52.980 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.053 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:53.057 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.060 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:53.060 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:53.065 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.096 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:53.100 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.105 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:53.105 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:53.108 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.180 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:53.184 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.188 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:53.188 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:53.192 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.224 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:53.228 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.232 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:53.232 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:53.237 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.252 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 4 lines
+2022-12-25 21:16:53.256 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.259 19385-19385 A                       pid-19385                            I  Trimming objects from memory, since app is in the background.
+2022-12-25 21:16:53.260 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.308 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 12 lines
+2022-12-25 21:16:53.312 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.316 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:53.316 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:53.320 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.352 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:53.356 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.360 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:53.360 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:53.364 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.437 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:53.440 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.444 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:53.444 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:53.449 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.480 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:53.485 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.489 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:53.489 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:53.493 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.564 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:53.568 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.573 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:53.573 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:53.576 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.585 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 2 lines
+2022-12-25 21:16:53.588 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.590   688-4296  audio_hw_spkr_prot      pid-688                              D  audio_extn_fbsp_get_parameters: Speaker protection disabled
+2022-12-25 21:16:53.590   688-4296  audio_hw_extn           pid-688                              D  audio_extn_get_parameters: returns 
+2022-12-25 21:16:53.591   743-18989 hash_map_utils          pid-743                              I  key: 'hifi_mode' value: ''
+2022-12-25 21:16:53.592  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait done.
+2022-12-25 21:16:53.592 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.594  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Reading 40000 .
+2022-12-25 21:16:53.594  1302-1462  ThermalEngine           pid-1302                             I  Sensor:msm_therm:40000 mC
+2022-12-25 21:16:53.594  1302-1462  ThermalEngine           pid-1302                             D  update_active_thresh: msm_therm Active(1), Hi(1) 44000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:16:53.594  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Sensor wait.
+2022-12-25 21:16:53.594  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait start. 1000ms
+2022-12-25 21:16:53.595  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait done.
+2022-12-25 21:16:53.595 12683-18131 AudioManager            pid-12683                            D  getStreamVolume isRestricted mode = 0
+2022-12-25 21:16:53.596  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Reading 38000 .
+2022-12-25 21:16:53.596  1302-1463  ThermalEngine           pid-1302                             I  Sensor:quiet_therm:38000 mC
+2022-12-25 21:16:53.596  1302-1463  ThermalEngine           pid-1302                             D  update_active_thresh: quiet_therm Active(1), Hi(1) 40000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:16:53.596  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Sensor wait.
+2022-12-25 21:16:53.596  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait start. 1000ms
+2022-12-25 21:16:53.596 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.601 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 1 line
+2022-12-25 21:16:53.604 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.605   688-4296  audio_hw_spkr_prot      pid-688                              D  audio_extn_fbsp_get_parameters: Speaker protection disabled
+2022-12-25 21:16:53.605   688-4296  audio_hw_extn           pid-688                              D  audio_extn_get_parameters: returns 
+2022-12-25 21:16:53.606   743-8567  hash_map_utils          pid-743                              I  key: 'hifi_mode' value: ''
+2022-12-25 21:16:53.609 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.612 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.616 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:53.616 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:53.620 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.692 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:53.696 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.701 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:53.701 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:53.704 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.736 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:53.740 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.744 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:53.744 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:53.749 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.820 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:53.824 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.828 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:53.828 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:53.833 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.864 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:53.868 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.872 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:53.873 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:53.876 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.948 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:53.952 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.956 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:53.956 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:53.961 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:53.992 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:53.996 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.000 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:54.001 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:54.005 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.076 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:54.081 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.085 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:54.085 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:54.089 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.120 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:54.124 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.128 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:54.128 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:54.132 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.204 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:54.208 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.212 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:54.212 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:54.216 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.216  1302-1457  ThermalEngine           pid-1302                             D  sensor_wait: backlight_therm Wait done.
+2022-12-25 21:16:54.218  1302-1457  ThermalEngine           pid-1302                             D  sensor_monitor: backlight_therm Reading 37000 .
+2022-12-25 21:16:54.218  1302-1457  ThermalEngine           pid-1302                             I  Sensor:backlight_therm:37000 mC
+2022-12-25 21:16:54.218  1302-1457  ThermalEngine           pid-1302                             D  update_active_thresh: backlight_therm Active(1), Hi(1) 45000, Lo(0) -2147483648, desc(0) Interval(1) 2000
+2022-12-25 21:16:54.218  1302-1457  ThermalEngine           pid-1302                             D  sensor_monitor: backlight_therm Sensor wait.
+2022-12-25 21:16:54.218  1302-1457  ThermalEngine           pid-1302                             D  sensor_wait: backlight_therm Wait start. 2000ms
+2022-12-25 21:16:54.220 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.248 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 7 lines
+2022-12-25 21:16:54.252 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.256 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:54.256 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:54.260 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.332 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:54.336 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.340 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:54.340 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:54.344 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.376 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:54.380 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.384 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:54.384 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:54.388 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.461 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:54.465 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.468 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:54.468 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:54.473 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.505 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:54.508 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.512 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:54.512 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:54.516 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.588 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:54.593 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.594  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait done.
+2022-12-25 21:16:54.596  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Reading 40000 .
+2022-12-25 21:16:54.596  1302-1462  ThermalEngine           pid-1302                             I  Sensor:msm_therm:40000 mC
+2022-12-25 21:16:54.596  1302-1462  ThermalEngine           pid-1302                             D  update_active_thresh: msm_therm Active(1), Hi(1) 44000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:16:54.596  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Sensor wait.
+2022-12-25 21:16:54.596  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait start. 1000ms
+2022-12-25 21:16:54.596  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait done.
+2022-12-25 21:16:54.596 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:54.596 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:54.599  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Reading 38000 .
+2022-12-25 21:16:54.599  1302-1463  ThermalEngine           pid-1302                             I  Sensor:quiet_therm:38000 mC
+2022-12-25 21:16:54.599  1302-1463  ThermalEngine           pid-1302                             D  update_active_thresh: quiet_therm Active(1), Hi(1) 40000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:16:54.599  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Sensor wait.
+2022-12-25 21:16:54.599  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait start. 1000ms
+2022-12-25 21:16:54.601 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.632 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:54.636 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.641 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:54.641 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:54.644 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.716 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:54.720 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.724 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:54.724 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:54.728 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.761 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:54.765 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.769 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:54.769 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:54.772 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.845 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:54.848 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.852 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:54.852 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:54.856 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.888 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:54.892 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.896 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:54.897 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:54.900 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.972 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:54.976 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:54.981 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:54.981 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:54.985 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.016 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:55.020 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.025 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:55.025 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:55.028 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.101 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:55.104 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.108 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:55.109 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:55.112 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.144 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:55.148 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.152 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:55.152 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:55.156 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.229 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:55.232 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.236 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:55.236 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:55.240 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.272 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:55.277 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.280 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:55.280 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:55.285 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.340 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 14 lines
+2022-12-25 21:16:55.345 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.348 13316-13371 MobileSignalController  pid-13316                            D  onSignalStrengthsChanged: SignalStrength: 99 0 -120 -160 -120 -160 -1 30 -87 -13 106 2147483647 0 2147483647 99 255 2147483647 gsm|lte use_rsrp_and_rssnr_for_lte_level  [-120, -115, -110, -105, -97] [-115, -105, -95, -85]
+2022-12-25 21:16:55.348 13316-13371 NetworkCon...troller(1) pid-13316                            D  4G level = 5
+2022-12-25 21:16:55.349 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.357 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 2 lines
+2022-12-25 21:16:55.361 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.365 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:55.365 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:55.368 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.400 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:55.405 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.408 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:55.408 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:55.413 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.484 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:55.488 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.492 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:55.492 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:55.496 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.528 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:55.532 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.536 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:55.536 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:55.541 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.542  2820-5429  DPMJ                    pid-2820                             I  |REQ:RCVR| DPM creating socket
+2022-12-25 21:16:55.545 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.589 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 11 lines
+2022-12-25 21:16:55.593 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.596  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait done.
+2022-12-25 21:16:55.596 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.598  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Reading 40000 .
+2022-12-25 21:16:55.598  1302-1462  ThermalEngine           pid-1302                             I  Sensor:msm_therm:40000 mC
+2022-12-25 21:16:55.598  1302-1462  ThermalEngine           pid-1302                             D  update_active_thresh: msm_therm Active(1), Hi(1) 44000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:16:55.598  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Sensor wait.
+2022-12-25 21:16:55.599  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait start. 1000ms
+2022-12-25 21:16:55.599  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait done.
+2022-12-25 21:16:55.600 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.603  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Reading 38000 .
+2022-12-25 21:16:55.603  1302-1463  ThermalEngine           pid-1302                             I  Sensor:quiet_therm:38000 mC
+2022-12-25 21:16:55.603  1302-1463  ThermalEngine           pid-1302                             D  update_active_thresh: quiet_therm Active(1), Hi(1) 40000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:16:55.603  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Sensor wait.
+2022-12-25 21:16:55.603  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait start. 1000ms
+2022-12-25 21:16:55.604 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.612 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 2 lines
+2022-12-25 21:16:55.616 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.620 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:55.620 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:55.624 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.657 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:55.661 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.664 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:55.664 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:55.666   688-4296  audio_hw_spkr_prot      pid-688                              D  audio_extn_fbsp_get_parameters: Speaker protection disabled
+2022-12-25 21:16:55.666   688-4296  audio_hw_extn           pid-688                              D  audio_extn_get_parameters: returns 
+2022-12-25 21:16:55.666   743-8567  hash_map_utils          pid-743                              I  key: 'hifi_mode' value: ''
+2022-12-25 21:16:55.668 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.671 12683-18131 AudioManager            pid-12683                            D  getStreamVolume isRestricted mode = 0
+2022-12-25 21:16:55.672 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.673   688-4296  audio_hw_spkr_prot      pid-688                              D  audio_extn_fbsp_get_parameters: Speaker protection disabled
+2022-12-25 21:16:55.674   688-4296  audio_hw_extn           pid-688                              D  audio_extn_get_parameters: returns 
+2022-12-25 21:16:55.674   743-8567  hash_map_utils          pid-743                              I  key: 'hifi_mode' value: ''
+2022-12-25 21:16:55.676 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.704 19482-19482 linker                  pid-19482                            A  CANNOT LINK EXECUTABLE "/system/bin/dpmd": "/system/lib64/libdpmframework.so" is 32-bit instead of 64-bit
+2022-12-25 21:16:55.740 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 16 lines
+2022-12-25 21:16:55.744 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.748 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:55.748 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:55.752 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.784 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:55.788 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.792 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:55.792 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:55.797 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.869 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:55.872 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.876 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:55.876 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:55.880 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.913 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:55.918 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.920 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:55.920 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:55.924 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:55.997 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:56.001 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.004 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:56.004 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:56.008 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.040 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:56.044 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.048 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:56.048 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:56.053 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.112 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 15 lines
+2022-12-25 21:16:56.116 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.118 12683-12718 AudioManager            pid-12683                            D  getStreamVolume isRestricted mode = 0
+2022-12-25 21:16:56.120 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.122   688-4296  audio_hw_spkr_prot      pid-688                              D  audio_extn_fbsp_get_parameters: Speaker protection disabled
+2022-12-25 21:16:56.122   688-4296  audio_hw_extn           pid-688                              D  audio_extn_get_parameters: returns 
+2022-12-25 21:16:56.122   743-8567  hash_map_utils          pid-743                              I  key: 'hifi_mode' value: ''
+2022-12-25 21:16:56.125 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.128   688-4296  audio_hw_spkr_prot      pid-688                              D  audio_extn_fbsp_get_parameters: Speaker protection disabled
+2022-12-25 21:16:56.128   688-4296  audio_hw_extn           pid-688                              D  audio_extn_get_parameters: returns 
+2022-12-25 21:16:56.129   743-8567  hash_map_utils          pid-743                              I  key: 'hifi_mode' value: ''
+2022-12-25 21:16:56.129 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.133 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:56.133 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:56.136 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.168 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:56.172 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.176 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:56.176 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:56.180 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.212 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:56.217 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.218  1302-1457  ThermalEngine           pid-1302                             D  sensor_wait: backlight_therm Wait done.
+2022-12-25 21:16:56.219  1302-1457  ThermalEngine           pid-1302                             D  sensor_monitor: backlight_therm Reading 37000 .
+2022-12-25 21:16:56.219  1302-1457  ThermalEngine           pid-1302                             I  Sensor:backlight_therm:37000 mC
+2022-12-25 21:16:56.219  1302-1457  ThermalEngine           pid-1302                             D  update_active_thresh: backlight_therm Active(1), Hi(1) 45000, Lo(0) -2147483648, desc(0) Interval(1) 2000
+2022-12-25 21:16:56.219  1302-1457  ThermalEngine           pid-1302                             D  sensor_monitor: backlight_therm Sensor wait.
+2022-12-25 21:16:56.219  1302-1457  ThermalEngine           pid-1302                             D  sensor_wait: backlight_therm Wait start. 2000ms
+2022-12-25 21:16:56.220 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.253 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:56.257 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.260 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:56.260 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:56.265 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.296 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:56.300 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.304 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:56.304 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:56.308 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.348 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 10 lines
+2022-12-25 21:16:56.352 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.354 13316-13316 SignalClusterView       pid-13316                            D  updateMobileTypeImage  0
+2022-12-25 21:16:56.355 13316-13316 chatty                  pid-13316                            I  uid=1000(system) com.android.systemui identical 1 line
+2022-12-25 21:16:56.355 13316-13316 SignalClusterView       pid-13316                            D  updateMobileTypeImage  0
+2022-12-25 21:16:56.356 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.380 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 6 lines
+2022-12-25 21:16:56.384 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.388 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:56.389 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:56.393 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.425 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:56.429 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.432 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:56.432 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:56.436 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.508 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:56.512 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.517 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:56.517 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:56.520 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.552 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:56.556 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.560 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:56.560 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:56.565 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.592 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 7 lines
+2022-12-25 21:16:56.596 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.599  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait done.
+2022-12-25 21:16:56.600  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Reading 40000 .
+2022-12-25 21:16:56.600  1302-1462  ThermalEngine           pid-1302                             I  Sensor:msm_therm:40000 mC
+2022-12-25 21:16:56.600  1302-1462  ThermalEngine           pid-1302                             D  update_active_thresh: msm_therm Active(1), Hi(1) 44000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:16:56.600  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Sensor wait.
+2022-12-25 21:16:56.600  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait start. 1000ms
+2022-12-25 21:16:56.600 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.603  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait done.
+2022-12-25 21:16:56.605 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.606  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Reading 38000 .
+2022-12-25 21:16:56.606  1302-1463  ThermalEngine           pid-1302                             I  Sensor:quiet_therm:38000 mC
+2022-12-25 21:16:56.606  1302-1463  ThermalEngine           pid-1302                             D  update_active_thresh: quiet_therm Active(1), Hi(1) 40000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:16:56.606  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Sensor wait.
+2022-12-25 21:16:56.606  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait start. 1000ms
+2022-12-25 21:16:56.608 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.636 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 7 lines
+2022-12-25 21:16:56.640 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.645 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:56.645 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:56.649 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.680 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:56.684 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.688 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:56.688 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:56.693 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.765 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:56.768 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.772 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:56.772 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:56.777 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.808 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:56.812 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.816 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:56.816 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:56.820 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.892 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:56.897 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.901 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:56.901 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:56.904 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.937 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:56.941 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:56.944 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:56.944 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:56.949 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.021 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:57.025 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.030 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:57.030 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:57.033 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.064 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:57.068 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.072 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:57.072 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:57.076 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.148 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:57.152 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.156 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:57.156 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:57.160 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.192 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:57.196 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.200 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:57.200 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:57.204 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.276 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:57.281 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.284 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:57.284 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:57.289 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.320 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:57.324 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.328 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:57.328 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:57.332 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.348 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 4 lines
+2022-12-25 21:16:57.352 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.354 13316-13316 SignalClusterView       pid-13316                            D  updateMobileTypeImage  0
+2022-12-25 21:16:57.355 13316-13316 chatty                  pid-13316                            I  uid=1000(system) com.android.systemui identical 1 line
+2022-12-25 21:16:57.355 13316-13316 SignalClusterView       pid-13316                            D  updateMobileTypeImage  0
+2022-12-25 21:16:57.356 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.404 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 12 lines
+2022-12-25 21:16:57.408 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.412 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:57.412 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:57.417 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.448 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:57.452 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.456 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:57.456 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:57.461 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.533 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:57.537 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.540 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:57.540 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:57.546 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.576 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:57.580 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.584 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:57.584 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:57.589 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.597 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 2 lines
+2022-12-25 21:16:57.600 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.600  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait done.
+2022-12-25 21:16:57.602  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Reading 40000 .
+2022-12-25 21:16:57.602  1302-1462  ThermalEngine           pid-1302                             I  Sensor:msm_therm:40000 mC
+2022-12-25 21:16:57.602  1302-1462  ThermalEngine           pid-1302                             D  update_active_thresh: msm_therm Active(1), Hi(1) 44000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:16:57.602  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Sensor wait.
+2022-12-25 21:16:57.602  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait start. 1000ms
+2022-12-25 21:16:57.605 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.606  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait done.
+2022-12-25 21:16:57.607  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Reading 38000 .
+2022-12-25 21:16:57.607  1302-1463  ThermalEngine           pid-1302                             I  Sensor:quiet_therm:38000 mC
+2022-12-25 21:16:57.607  1302-1463  ThermalEngine           pid-1302                             D  update_active_thresh: quiet_therm Active(1), Hi(1) 40000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:16:57.607  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Sensor wait.
+2022-12-25 21:16:57.607  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait start. 1000ms
+2022-12-25 21:16:57.608 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.660 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 13 lines
+2022-12-25 21:16:57.664 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.668 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:57.668 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:57.672 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.704 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:57.709 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.712 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:57.712 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:57.717 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.732 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 4 lines
+2022-12-25 21:16:57.737 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.737   688-4296  audio_hw_spkr_prot      pid-688                              D  audio_extn_fbsp_get_parameters: Speaker protection disabled
+2022-12-25 21:16:57.737   688-4296  audio_hw_extn           pid-688                              D  audio_extn_get_parameters: returns 
+2022-12-25 21:16:57.737   743-8567  hash_map_utils          pid-743                              I  key: 'hifi_mode' value: ''
+2022-12-25 21:16:57.740 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.741 12683-18131 AudioManager            pid-12683                            D  getStreamVolume isRestricted mode = 0
+2022-12-25 21:16:57.743   688-4296  audio_hw_spkr_prot      pid-688                              D  audio_extn_fbsp_get_parameters: Speaker protection disabled
+2022-12-25 21:16:57.743   688-4296  audio_hw_extn           pid-688                              D  audio_extn_get_parameters: returns 
+2022-12-25 21:16:57.744   743-8567  hash_map_utils          pid-743                              I  key: 'hifi_mode' value: ''
+2022-12-25 21:16:57.745 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.788 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 11 lines
+2022-12-25 21:16:57.792 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.796 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:57.796 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:57.800 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.832 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:57.837 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.840 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:57.840 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:57.845 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.917 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:57.920 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.924 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:57.924 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:57.929 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.960 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:57.964 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:57.968 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:57.968 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:57.972 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.045 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:58.049 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.052 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:58.052 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:58.057 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.089 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:58.092 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.097 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:58.097 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:58.103 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.174 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:58.176 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.180 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:58.180 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:58.186 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.212 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 7 lines
+2022-12-25 21:16:58.216 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.219  1302-1457  ThermalEngine           pid-1302                             D  sensor_wait: backlight_therm Wait done.
+2022-12-25 21:16:58.221  1302-1457  ThermalEngine           pid-1302                             D  sensor_monitor: backlight_therm Reading 37000 .
+2022-12-25 21:16:58.221  1302-1457  ThermalEngine           pid-1302                             I  Sensor:backlight_therm:37000 mC
+2022-12-25 21:16:58.221  1302-1457  ThermalEngine           pid-1302                             D  update_active_thresh: backlight_therm Active(1), Hi(1) 45000, Lo(0) -2147483648, desc(0) Interval(1) 2000
+2022-12-25 21:16:58.221  1302-1457  ThermalEngine           pid-1302                             D  sensor_monitor: backlight_therm Sensor wait.
+2022-12-25 21:16:58.221  1302-1457  ThermalEngine           pid-1302                             D  sensor_wait: backlight_therm Wait start. 2000ms
+2022-12-25 21:16:58.221 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.225 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:58.226 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:58.229 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.265 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 9 lines
+2022-12-25 21:16:58.268 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.271  2853-2870  m.android.phon          pid-2853                             I  Background concurrent copying GC freed 4457(448KB) AllocSpace objects, 0(0B) LOS objects, 50% free, 5MB/10MB, paused 270us total 108.172ms
+2022-12-25 21:16:58.272 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.300 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 7 lines
+2022-12-25 21:16:58.304 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.308 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:58.308 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:58.314 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.344 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:58.349 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.352 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:58.353 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:58.357 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.388 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:58.392 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.393 13316-13371 MobileSignalController  pid-13316                            D  onSignalStrengthsChanged: SignalStrength: 99 0 -120 -160 -120 -160 -1 30 -89 -12 -60 2147483647 0 2147483647 99 255 2147483647 gsm|lte use_rsrp_and_rssnr_for_lte_level  [-120, -115, -110, -105, -97] [-115, -105, -95, -85]
+2022-12-25 21:16:58.393 13316-13371 NetworkCon...troller(1) pid-13316                            D  4G level = 5
+2022-12-25 21:16:58.397 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.429 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:58.432 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.436 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:58.436 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:58.440 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.472 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:58.476 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.481 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:58.481 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:58.484 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.557 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:58.560 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.564 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:58.564 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:58.568 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.596 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 7 lines
+2022-12-25 21:16:58.600 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.602  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait done.
+2022-12-25 21:16:58.604  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Reading 40000 .
+2022-12-25 21:16:58.604  1302-1462  ThermalEngine           pid-1302                             I  Sensor:msm_therm:40000 mC
+2022-12-25 21:16:58.604  1302-1462  ThermalEngine           pid-1302                             D  update_active_thresh: msm_therm Active(1), Hi(1) 44000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:16:58.604  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Sensor wait.
+2022-12-25 21:16:58.604  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait start. 1000ms
+2022-12-25 21:16:58.605 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.608  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait done.
+2022-12-25 21:16:58.608 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:58.608 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:58.609  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Reading 38000 .
+2022-12-25 21:16:58.609  1302-1463  ThermalEngine           pid-1302                             I  Sensor:quiet_therm:38000 mC
+2022-12-25 21:16:58.609  1302-1463  ThermalEngine           pid-1302                             D  update_active_thresh: quiet_therm Active(1), Hi(1) 40000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:16:58.609  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Sensor wait.
+2022-12-25 21:16:58.609  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait start. 1000ms
+2022-12-25 21:16:58.613 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.684 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:58.688 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.692 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:58.692 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:58.696 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.728 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:58.732 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.737 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:58.737 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:58.742 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.812 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:58.816 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.820 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:58.820 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:58.824 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.856 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:58.860 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.864 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:58.864 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:58.868 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.884 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 4 lines
+2022-12-25 21:16:58.888 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.889 17758-17758 BoundBrokerSvc          pid-17758                            D  onUnbind: Intent { act=com.google.android.gms.measurement.START pkg=com.google.android.gms }
+2022-12-25 21:16:58.892 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.940 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 12 lines
+2022-12-25 21:16:58.944 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.949 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:58.949 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:58.952 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.984 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:58.989 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:58.992 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:58.992 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:58.996 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.069 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:59.072 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.076 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:59.076 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:59.080 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.112 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:59.117 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.120 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:59.121 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:59.124 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.196 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:59.200 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.204 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:59.204 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:59.208 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.241 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:59.244 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.249 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:59.249 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:59.253 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.325 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:59.328 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.332 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:59.332 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:59.336 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.368 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:59.372 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.377 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:59.377 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:59.380 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.452 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:59.456 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.460 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:59.460 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:59.465 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.497 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:59.500 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.504 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:59.504 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:59.508 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.536 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 7 lines
+2022-12-25 21:16:59.540 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.544  2820-5429  DPMJ                    pid-2820                             I  |REQ:RCVR| DPM creating socket
+2022-12-25 21:16:59.544 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.580 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 9 lines
+2022-12-25 21:16:59.584 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.588 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:59.588 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:59.592 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.597 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 1 line
+2022-12-25 21:16:59.600 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.604  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait done.
+2022-12-25 21:16:59.604 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.605  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Reading 40000 .
+2022-12-25 21:16:59.605  1302-1462  ThermalEngine           pid-1302                             I  Sensor:msm_therm:40000 mC
+2022-12-25 21:16:59.605  1302-1462  ThermalEngine           pid-1302                             D  update_active_thresh: msm_therm Active(1), Hi(1) 44000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:16:59.605  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Sensor wait.
+2022-12-25 21:16:59.605  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait start. 1000ms
+2022-12-25 21:16:59.608 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.610  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait done.
+2022-12-25 21:16:59.611  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Reading 38000 .
+2022-12-25 21:16:59.611  1302-1463  ThermalEngine           pid-1302                             I  Sensor:quiet_therm:38000 mC
+2022-12-25 21:16:59.611  1302-1463  ThermalEngine           pid-1302                             D  update_active_thresh: quiet_therm Active(1), Hi(1) 40000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:16:59.611  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Sensor wait.
+2022-12-25 21:16:59.611  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait start. 1000ms
+2022-12-25 21:16:59.613 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.624 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 3 lines
+2022-12-25 21:16:59.628 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.633 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:59.633 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:59.636 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.709 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:59.712 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.716 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:59.716 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:59.720 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.752 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:59.756 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.760 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:59.760 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:59.764 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.804 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 10 lines
+2022-12-25 21:16:59.808 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.808   688-4296  audio_hw_spkr_prot      pid-688                              D  audio_extn_fbsp_get_parameters: Speaker protection disabled
+2022-12-25 21:16:59.808   688-4296  audio_hw_extn           pid-688                              D  audio_extn_get_parameters: returns 
+2022-12-25 21:16:59.809   743-8567  hash_map_utils          pid-743                              I  key: 'hifi_mode' value: ''
+2022-12-25 21:16:59.810 12683-18131 AudioManager            pid-12683                            D  getStreamVolume isRestricted mode = 0
+2022-12-25 21:16:59.812 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.813   688-4296  audio_hw_spkr_prot      pid-688                              D  audio_extn_fbsp_get_parameters: Speaker protection disabled
+2022-12-25 21:16:59.813   688-4296  audio_hw_extn           pid-688                              D  audio_extn_get_parameters: returns 
+2022-12-25 21:16:59.814   743-8567  hash_map_utils          pid-743                              I  key: 'hifi_mode' value: ''
+2022-12-25 21:16:59.817 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.837 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 5 lines
+2022-12-25 21:16:59.840 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.844 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:59.844 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:59.849 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.880 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:16:59.884 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.888 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:16:59.888 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:16:59.892 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.965 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:16:59.969 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:16:59.972 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:16:59.972 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:16:59.976 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.000 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 6 lines
+2022-12-25 21:17:00.005 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.005 13316-13316 KeyguardUpdateMonitor   pid-13316                            D  handleTimeUpdate
+2022-12-25 21:17:00.008 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.012 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.016 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:17:00.016 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:17:00.020 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.092 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:17:00.096 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.100 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:17:00.100 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:17:00.104 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.136 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:17:00.141 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.144 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:17:00.144 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:17:00.148 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.216 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 17 lines
+2022-12-25 21:17:00.220 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.221  1302-1457  ThermalEngine           pid-1302                             D  sensor_wait: backlight_therm Wait done.
+2022-12-25 21:17:00.222  1302-1457  ThermalEngine           pid-1302                             D  sensor_monitor: backlight_therm Reading 37000 .
+2022-12-25 21:17:00.222  1302-1457  ThermalEngine           pid-1302                             I  Sensor:backlight_therm:37000 mC
+2022-12-25 21:17:00.222  1302-1457  ThermalEngine           pid-1302                             D  update_active_thresh: backlight_therm Active(1), Hi(1) 45000, Lo(0) -2147483648, desc(0) Interval(1) 2000
+2022-12-25 21:17:00.223  1302-1457  ThermalEngine           pid-1302                             D  sensor_monitor: backlight_therm Sensor wait.
+2022-12-25 21:17:00.223  1302-1457  ThermalEngine           pid-1302                             D  sensor_wait: backlight_therm Wait start. 2000ms
+2022-12-25 21:17:00.224 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.229 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:17:00.229 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:17:00.233 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.264 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:17:00.268 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.272 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:17:00.272 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:17:00.276 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.348 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:17:00.352 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.356 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:17:00.357 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:17:00.361 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.392 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:17:00.396 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.400 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:17:00.400 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:17:00.405 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.477 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:17:00.480 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.484 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:17:00.485 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:17:00.488 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.520 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:17:00.524 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.529 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:17:00.529 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:17:00.532 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.600 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 17 lines
+2022-12-25 21:17:00.604 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.605  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait done.
+2022-12-25 21:17:00.607  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Reading 40000 .
+2022-12-25 21:17:00.607  1302-1462  ThermalEngine           pid-1302                             I  Sensor:msm_therm:40000 mC
+2022-12-25 21:17:00.607  1302-1462  ThermalEngine           pid-1302                             D  update_active_thresh: msm_therm Active(1), Hi(1) 44000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:17:00.607  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Sensor wait.
+2022-12-25 21:17:00.607  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait start. 1000ms
+2022-12-25 21:17:00.609 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.611  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait done.
+2022-12-25 21:17:00.612  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Reading 38000 .
+2022-12-25 21:17:00.612  1302-1463  ThermalEngine           pid-1302                             I  Sensor:quiet_therm:38000 mC
+2022-12-25 21:17:00.612  1302-1463  ThermalEngine           pid-1302                             D  update_active_thresh: quiet_therm Active(1), Hi(1) 40000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:17:00.612  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Sensor wait.
+2022-12-25 21:17:00.612  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait start. 1000ms
+2022-12-25 21:17:00.613 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:17:00.613 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:17:00.616 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.648 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:17:00.652 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.657 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:17:00.657 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:17:00.661 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.721 19487-19487 linker                  pid-19487                            A  CANNOT LINK EXECUTABLE "/system/bin/dpmd": "/system/lib64/libdpmframework.so" is 32-bit instead of 64-bit
+2022-12-25 21:17:00.732 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:17:00.736 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.740 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:17:00.740 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:17:00.745 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.777 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:17:00.781 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.784 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:17:00.784 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:17:00.788 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.860 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:17:00.864 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.868 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:17:00.868 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:17:00.872 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.904 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:17:00.909 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.912 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:17:00.912 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:17:00.917 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.989 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:17:00.993 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:00.996 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:17:00.996 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:17:01.001 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.033 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:17:01.036 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.040 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:17:01.040 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:17:01.045 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.117 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:17:01.120 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.125 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:17:01.125 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:17:01.128 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.160 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:17:01.165 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.168 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:17:01.168 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:17:01.173 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.245 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:17:01.248 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.252 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:17:01.252 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:17:01.256 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.289 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:17:01.293 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.296 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:17:01.296 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:17:01.301 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.373 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:17:01.376 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.380 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:17:01.380 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:17:01.385 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.416 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:17:01.420 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.424 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:17:01.424 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:17:01.428 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.484 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 14 lines
+2022-12-25 21:17:01.488 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.491 13316-13371 MobileSignalController  pid-13316                            D  onSignalStrengthsChanged: SignalStrength: 99 0 -120 -160 -120 -160 -1 28 -90 -12 104 2147483647 0 2147483647 99 255 2147483647 gsm|lte use_rsrp_and_rssnr_for_lte_level  [-120, -115, -110, -105, -97] [-115, -105, -95, -85]
+2022-12-25 21:17:01.491 13316-13371 NetworkCon...troller(1) pid-13316                            D  4G level = 5
+2022-12-25 21:17:01.492 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.501 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 2 lines
+2022-12-25 21:17:01.504 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.508 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:17:01.508 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:17:01.512 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.544 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:17:01.548 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.552 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:17:01.552 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:17:01.556 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.600 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 11 lines
+2022-12-25 21:17:01.605 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.607  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait done.
+2022-12-25 21:17:01.608  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Reading 40000 .
+2022-12-25 21:17:01.608  1302-1462  ThermalEngine           pid-1302                             I  Sensor:msm_therm:40000 mC
+2022-12-25 21:17:01.608 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.608  1302-1462  ThermalEngine           pid-1302                             D  update_active_thresh: msm_therm Active(1), Hi(1) 44000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:17:01.608  1302-1462  ThermalEngine           pid-1302                             D  sensor_monitor: msm_therm Sensor wait.
+2022-12-25 21:17:01.608  1302-1462  ThermalEngine           pid-1302                             D  sensor_wait: msm_therm Wait start. 1000ms
+2022-12-25 21:17:01.612  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait done.
+2022-12-25 21:17:01.613 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.615  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Reading 38000 .
+2022-12-25 21:17:01.615  1302-1463  ThermalEngine           pid-1302                             I  Sensor:quiet_therm:38000 mC
+2022-12-25 21:17:01.615  1302-1463  ThermalEngine           pid-1302                             D  update_active_thresh: quiet_therm Active(1), Hi(1) 40000, Lo(0) -2147483648, desc(0) Interval(1) 1000
+2022-12-25 21:17:01.615  1302-1463  ThermalEngine           pid-1302                             D  sensor_monitor: quiet_therm Sensor wait.
+2022-12-25 21:17:01.615  1302-1463  ThermalEngine           pid-1302                             D  sensor_wait: quiet_therm Wait start. 1000ms
+2022-12-25 21:17:01.617 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.628 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 3 lines
+2022-12-25 21:17:01.632 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.636 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:17:01.636 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:17:01.641 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.672 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:17:01.676 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.680 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:17:01.680 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:17:01.684 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.757 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:17:01.760 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.764 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:17:01.765 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:17:01.769 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.800 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:17:01.805 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.808 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:17:01.808 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:17:01.813 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.872 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 15 lines
+2022-12-25 21:17:01.877 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.879   688-4296  audio_hw_spkr_prot      pid-688                              D  audio_extn_fbsp_get_parameters: Speaker protection disabled
+2022-12-25 21:17:01.879   688-4296  audio_hw_extn           pid-688                              D  audio_extn_get_parameters: returns 
+2022-12-25 21:17:01.879   743-8567  hash_map_utils          pid-743                              I  key: 'hifi_mode' value: ''
+2022-12-25 21:17:01.881 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.882 12683-18131 AudioManager            pid-12683                            D  getStreamVolume isRestricted mode = 0
+2022-12-25 21:17:01.884 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.888   688-4296  audio_hw_spkr_prot      pid-688                              D  audio_extn_fbsp_get_parameters: Speaker protection disabled
+2022-12-25 21:17:01.888   688-4296  audio_hw_extn           pid-688                              D  audio_extn_get_parameters: returns 
+2022-12-25 21:17:01.888 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.890   743-8567  hash_map_utils          pid-743                              I  key: 'hifi_mode' value: ''
+2022-12-25 21:17:01.892 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:17:01.892 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:17:01.897 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.928 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:17:01.932 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:01.937 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:17:01.937 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
+2022-12-25 21:17:01.940 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:02.012 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 18 lines
+2022-12-25 21:17:02.016 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:02.020 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 128 + 64 err 0
+2022-12-25 21:17:02.020 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(64) returned 64 = 64 + 0 err 0
+2022-12-25 21:17:02.024 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:02.056 12683-12755 chatty                  pid-12683                            I  uid=10213(com.inforcegames.app3dmodelling) AudioTrack identical 8 lines
+2022-12-25 21:17:02.061 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 192 + 0 err 0
+2022-12-25 21:17:02.064 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(192) returned 192 = 64 + 128 err 0
+2022-12-25 21:17:02.065 12683-12755 AudioTrack              pid-12683                            V  obtainBuffer(128) returned 128 = 128 + 0 err 0
